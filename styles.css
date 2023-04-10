@@ -1,0 +1,14 @@
+* {
+    color: #2d288a;
+    background-color: #edebeb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+list {
+    list-style: square;
+}
